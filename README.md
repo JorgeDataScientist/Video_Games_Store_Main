@@ -4,7 +4,7 @@ Necesitarás tener instalado ``` node.js ``` a partir de la versión 14 y tener 
 >
 1. Necesitamos clonar el proyecto añadiendo la siguiente linea de comando en una terminal
 ```
-git clone https://github.com/jotredev/online-video-games-store.git
+git clone https://github.com/JorgeLuis174/Video_Games_Store_Main.git
 ```
 >
 2. Entramos a la carpeta que acabamos de clonar e instalamos las dependencias necesarias
@@ -27,7 +27,7 @@ yarn dev
 
 📱 En móvil
 >
-<img width="300" alt="Captura de Pantalla 2022-10-13 a la(s) 8 46 10" src="https://user-images.githubusercontent.com/50961956/195630580-30a61199-7805-41b9-ba49-9f079aaace7d.png"> <img width="300" alt="Captura de Pantalla 2022-10-13 a la(s) 8 46 31" src="https://user-images.githubusercontent.com/50961956/195631289-2564c68a-0c29-48d0-9653-5fa8baddaeff.png">
+<img width="300" alt="Captura de Pantalla 2022-10-13 a la(s) 8 46 10" src="https://drive.google.com/file/d/1jJNh2oRHqWDpQZCPoRKw7KIJ6NtIBKae/view?usp=sharing"> <img width="300" alt="Captura de Pantalla 2022-10-13 a la(s) 21 11 31" src="https://drive.google.com/file/d/11nmvMKZp96eSZraUsq_9wmFMIwcVLizy/view?usp=share_link">
 
 
 
