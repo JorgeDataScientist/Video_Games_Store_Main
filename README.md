@@ -23,11 +23,18 @@ yarn dev
 
 💻 En computadora
 >
-<img width="1200" alt="Captura de Pantalla 2022-10-13 a la(s) 8 34 44" src="https://user-images.githubusercontent.com/50961956/195630320-bd82914c-b776-4088-9370-95eb14afb8ef.png">
+[![Captura81122.png](https://i.postimg.cc/Y2QZQYW5/Captura81122.png)](https://postimg.cc/MXK9Sct5)
 
 📱 En móvil
 >
-<img width="300" alt="Captura de Pantalla 2022-10-13 a la(s) 8 46 10" src="https://drive.google.com/file/d/1jJNh2oRHqWDpQZCPoRKw7KIJ6NtIBKae/view?usp=sharing"> <img width="300" alt="Captura de Pantalla 2022-10-13 a la(s) 21 11 31" src="https://drive.google.com/file/d/11nmvMKZp96eSZraUsq_9wmFMIwcVLizy/view?usp=share_link">
+[![2-Captura81122.png](https://i.postimg.cc/0Qzx8QX8/2-Captura81122.png)](https://postimg.cc/N9vZDgwV)
 
+>
+[![3-Captura81122.png](https://i.postimg.cc/JhqtyGQZ/3-Captura81122.png)](https://postimg.cc/8F7T9k9z)
 
+>
+[![4-Captura81122.png](https://i.postimg.cc/SRwK08yF/4-Captura81122.png)](https://postimg.cc/XBkWdrGQ)
+
+>
+[![5-Captura81122.png](https://i.postimg.cc/TYDwVk9R/5-Captura81122.png)](https://postimg.cc/dLJwvjpX)
 
