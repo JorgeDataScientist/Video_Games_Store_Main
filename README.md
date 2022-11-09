@@ -23,7 +23,7 @@ yarn dev
 
 💻 En computadora
 >
-<img width="1200" alt="Captura de Pantalla 2022-10-13 a la(s) 8 34 44" src="https://user-images.githubusercontent.com/50961956/195630320-bd82914c-b776-4088-9370-95eb14afb8ef.png">
+[![Captura81122.png](https://i.postimg.cc/Y2QZQYW5/Captura81122.png)](https://postimg.cc/MXK9Sct5)
 
 📱 En móvil
 >
